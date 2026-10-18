@@ -46,7 +46,7 @@ _services_cache = {"data": None, "time": 0}
 # GENERAL SETTINGS
 # ============================================
 
-BOT_TOKEN = "8502203429:AAHM2lrMLcX-jBS2p8QBXxnUXxZEH-dyiso"
+BOT_TOKEN = "8502203429:AAF-_0BhwwRlKdjh9cjD-_UqWWQARXzgUOM"
 if not BOT_TOKEN or BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
     raise SystemExit("❌ Please set a valid BOT_TOKEN in the script!")
 
